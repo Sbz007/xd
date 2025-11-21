@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+bun.lockb
+
+# Build output
+dist/
+.vite/
+
+# Environment variables
+.env
+.env.*.local
+
+# Editor folders
+.vscode/
+.idea/
+.DS_Store
